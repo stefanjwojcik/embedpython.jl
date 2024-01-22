@@ -2,3 +2,6 @@ name = "embedpython"
 uuid = "93c6f41a-20c2-4a20-85f9-0ed1502403b3"
 authors = ["stefanjwojcik <stefan.wojcik@colorado.edu>"]
 version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
